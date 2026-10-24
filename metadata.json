@@ -1,0 +1,8 @@
+{
+  "name": "Global Lite & Mauwiltus - China-Sierra Leone Trade",
+  "description": "Cross-border procurement, logistics tracking, customs documentation, and e-commerce platform for Global Lite Logistics and Mauwiltus Enterprise.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
